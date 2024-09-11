@@ -5,5 +5,6 @@ My portion functions on its own and therefore I'm uploading it as a seperate pro
 The predictable values are: ['HIGH', 'LOW', 'OPEN', 'CLOSE', 'ADJ CLOSE', 'VOLUME']
 Date should be integers in the form: (Year, Month, Day)
 Example input: ((2024,5,30),"INTEL","HIGH").
-It then returns the predicted value, and if the prediction is of a day that has already happened, the function will return it's accuracy.
+It then returns the predicted value, and if the prediction is of a day that has already happened, the function will return it's accuracy.\
+I got the data from Kaggle.com but cannot find the original upload, I will keep looking for it.
 NOTE: Data ranges from 1/1/2023-8/4/24
